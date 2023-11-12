@@ -20,11 +20,11 @@ You can reach out to me on my <a href="https://raymartin.es">website</a> or at m
 
 <!-- STATS -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanr92&label=Profile%20views&color=0e75b6&style=flat" alt="juanr92" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raymardev&label=Profile%20views&color=0e75b6&style=flat" alt="raymardev" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanr92&show_icons=true&locale=en" alt="juanr92" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanr92&" alt="juanr92" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raymardev&show_icons=true&locale=en" alt="raymardev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymardev&" alt="raymardev" />
 </p>
 
 <!-- SOCIAL MEDIA -->
@@ -38,11 +38,11 @@ You can reach out to me on my <a href="https://raymartin.es">website</a> or at m
          height="30"
          width="40" />
   </a>
-  <a href="https://instagram.com/juanr92" 
+  <a href="https://instagram.com/raymardev" 
      target="blank">
     <img
          align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanr92"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raymardev"
          height="30"
          width="40" />
   </a>
@@ -152,5 +152,5 @@ You can reach out to me on my <a href="https://raymartin.es">website</a> or at m
 </p>
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanr92&show_icons=true&locale=en&layout=compact" alt="juanr92" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymardev&show_icons=true&locale=en&layout=compact" alt="raymardev" /></p>
 -->
