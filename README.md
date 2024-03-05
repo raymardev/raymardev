@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ray Martín</h1>
-<h3 align="left">My name is Ray Martín and I'm a Junior FrontEnd Web Developer from the Canary Islands. I love working with technologies like React + VueJS + TailwindCSS, as well as with the MERN stack.</h3>
+<h3 align="left">My name is Ray Martín and I'm a FrontEnd Web Developer from the Canary Islands. I love working with technologies like Next14 + React + TailwindCSS + PostgreSQL, as well as with the PERN stack.</h3>
 
 These are some of my side projects:
 
-<a href="https://advance-web.vercel.app">AdvanceWeb</a>: An optimization Web tool using React, CSS, firebase, redux and Google Auth.
-<br>
-<a href="https://amentibus-cultui.vercel.app">AmentibusCultuiWeb</a>: Personal Website of a WorldofWarcraft Guild using React, TailwindCSS, firebase.
+<a href="https://metary.org">Metary</a>: A based Blockchain Web tool using Next, React, TailwindCSS in Vercel.
 <br>
 📪 How to reach me
 You can reach out to me on my <a href="https://raymartin.es">website</a> or at my email juanmg92@gmail.com.
 
-- 🌱 I’m currently learning **React, Vue, AngularJS**
+- 🌱 I’m currently learning **Next14, React, Tailwind, PostgreSQL, AI, PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [raymartin.es](raymartin.es)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind and so on...**
+- 💬 Ask me about **Next, React, JavaScript, HTML, CSS, Tailwind and so on...**
 
 - 📫 How to reach me **juanmg92@gmail.com**
 
