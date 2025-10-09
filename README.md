@@ -26,8 +26,8 @@ I'm a passionate **Full-Stack Developer** from the Canary Islands, specializing 
 
 ### 🌟 Featured Project
 - **[4Pets](https://app.4pets.care)** - A 360º app for animal care
-- **[4Pets iOS](https://apps.apple.com/es/app/4pets/id6739944436)** - A 360º app for animal care is IoS
-- **[4Pets Android](https://play.google.com/store/apps/details?id=care.fourpets.app)** - A 360º app for animal care is IoS
+- **[4Pets iOS](https://apps.apple.com/es/app/4pets/id6739944436)** - A 360º app for animal care in IoS
+- **[4Pets Android](https://play.google.com/store/apps/details?id=care.fourpets.app)** - A 360º app for animal care in Android
 
 *Next.js • React • TailwindCSS • Vercel · Expo · ReactNative*
 
