@@ -1,127 +1,214 @@
-<h1 align="center">Ray Martín · Full-Stack Engineer (Next.js 14 + React Native)</h1>
-<h3 align="center">SaaS, plataformas B2B, mobile apps y arquitectura escalable end-to-end</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ray+Mart%C3%ADn+%C2%B7+Full-Stack+Engineer;Next.js+%7C+React+Native+%7C+TypeScript+%7C+Node.js" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1F2328&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ray+Mart%C3%ADn+%C2%B7+Full-Stack+Engineer;Next.js+%7C+React+Native+%7C+TypeScript+%7C+Node.js" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1F2328&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ray+Mart%C3%ADn+%C2%B7+Full-Stack+Engineer;Next.js+%7C+React+Native+%7C+TypeScript+%7C+Node.js" />
+</picture>
 
 <p align="center">
-  <em>Construyo productos digitales en producción con foco en performance, mantenibilidad y resultados de negocio.</em>
+  <em>+4 a&ntilde;os construyendo productos digitales en producci&oacute;n &mdash; SaaS, plataformas B2B, apps m&oacute;viles y arquitectura escalable end-to-end.</em>
 </p>
 
 <p align="center">
   <a href="https://raymartin.es" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-raimundo-mart%c3%adn-guti%c3%a9rrez-48236517b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/raymardev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:juanmg92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=raymardev&label=Visitas&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## Sobre m&iacute;
+
+```typescript
+const ray = {
+  rol: "Full-Stack Engineer",
+  ubicacion: "Espa&ntilde;a",
+  experiencia: "+4 a&ntilde;os",
+  enfoque: ["Producto digital", "Performance", "Escalabilidad"],
+  disponible: ["Full-time", "Freelance", "Colaboraciones t&eacute;cnicas"],
+  web: "https://raymartin.es",
+};
+```
+
+Desarrollo productos digitales **de principio a fin**: desde la idea y el MVP hasta producci&oacute;n y escala. Especializado en aplicaciones web con **Next.js**, apps m&oacute;viles con **React Native + Expo**, y backends robustos con **Node.js, PostgreSQL y Supabase**. Cada proyecto que entrego est&aacute; pensado para **rendir, escalar y ser mantenible**.
+
+---
+
+## Stack tecnol&oacute;gico
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,postgres,supabase,prisma,graphql,docker,vercel,git,github,figma,vscode&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
----
+<details>
+<summary><strong>Ver desglose detallado</strong></summary>
 
-## Perfil en 30 segundos
+<br />
 
-- Full-Stack Developer especializado en **Next.js 14 (App Router), TypeScript, React Native y arquitectura moderna**.
-- Experiencia construyendo y manteniendo productos reales con **autenticación robusta, pagos, firmas digitales, paneles admin y despliegue cloud**.
-- Enfoque técnico: **clean code, arquitectura hexagonal, testing, performance y escalabilidad**.
-- Cómodo liderando desde discovery técnico hasta entrega en producción (web + mobile + backend).
+| Dominio | Tecnolog&iacute;as |
+|---|---|
+| **Frontend** | Next.js 14+ (App Router, RSC, Server Actions, ISR/SSR/SSG), React, TypeScript, TanStack Query & Table, Tailwind CSS, React Hook Form + Zod |
+| **Mobile** | React Native + Expo (apps iOS/Android en producci&oacute;n), notificaciones push, deep linking |
+| **Backend & Data** | Node.js, API REST & GraphQL, Prisma ORM, PostgreSQL, Supabase (Auth, DB, Storage, Realtime, Edge Functions), webhooks |
+| **Auth & Seguridad** | Magic Link, OAuth, JWT, RBAC, sesiones seguras, hardening OWASP |
+| **Pagos & Integraciones** | Stripe (Checkout, suscripciones, billing, webhooks), DocuSeal (firma electr&oacute;nica), APIs de terceros |
+| **Web3 & Blockchain** | Wallet auth, WalletConnect, lectura/escritura on-chain, EVM ecosystem |
+| **Arquitectura** | Hexagonal Architecture, Clean Code, SOLID, DDD t&aacute;ctico, testing (unit + integration + E2E) |
+| **DevOps** | GitHub Actions (CI/CD), Docker, Vercel, versionado sem&aacute;ntico |
 
----
-
-## Proyectos funcionales en producción
-
-| Proyecto | Tipo | Stack principal | Enlace |
-| --- | --- | --- | --- |
-| **4Pets (Web)** | Plataforma 360 para cuidado animal | Next.js, React, Tailwind, Vercel | [app.4pets.care](https://app.4pets.care) |
-| **4Pets (iOS)** | App móvil de producción | React Native, Expo | [App Store](https://apps.apple.com/es/app/4pets/id6739944436) |
-| **4Pets (Android)** | App móvil de producción | React Native, Expo | [Google Play](https://play.google.com/store/apps/details?id=care.fourpets.app) |
-| **Abanzamed** | Proyecto funcional en producción | Next.js, TypeScript, backend APIs | [abanzamed.com](https://abanzamed.com) |
-| **Aurantis** | Proyecto funcional en producción | Next.js, integraciones SaaS, cloud deployment | [aurantis.io](https://aurantis.io) |
-| **Naranest** | Producto funcional en producción | Web app moderna, autenticación y datos | [naranest.app](https://naranest.app) |
-
-> Si quieres, puedo compartir breakdown técnico por proyecto (arquitectura, decisiones clave y retos resueltos).
+</details>
 
 ---
 
-## Stack técnico y ecosistema
+## Proyectos en producci&oacute;n
 
-### Frontend & Product Engineering
-- **Next.js 14+** (App Router, Server Components, Server Actions, Route Handlers, ISR/SSR/SSG)
-- **React + TypeScript** (type safety avanzada, patrones reutilizables, composición de componentes)
-- **TanStack ecosystem**: TanStack Query, Table y patrones de estado para data-heavy apps
-- **Tailwind CSS** + UI systems escalables (design tokens, componentes reutilizables)
-- **Form & validation**: React Hook Form + Zod
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://4pets.care">4Pets</a></h3>
+      <p><strong>Plataforma 360&deg; de cuidado animal</strong></p>
+      <p>Cartilla digital veterinaria, modo perdido con geolocalizaci&oacute;n, marketplace de servicios, recordatorios inteligentes y m&aacute;s.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
+      </p>
+      <p>
+        <a href="https://app.4pets.care"><img src="https://img.shields.io/badge/Web_App-000?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+        <a href="https://apps.apple.com/es/app/4pets/id6739944436"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=fff" /></a>
+        <a href="https://play.google.com/store/apps/details?id=care.fourpets.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=fff" /></a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://abanzamed.com">Abanzamed</a></h3>
+      <p><strong>Web corporativa con CMS</strong></p>
+      <p>Sitio web profesional para cl&iacute;nica m&eacute;dica con sistema de gesti&oacute;n de contenido, APIs backend y despliegue cloud optimizado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+      </p>
+      <p>
+        <a href="https://abanzamed.com"><img src="https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://aurantis.io">Aurantis</a></h3>
+      <p><strong>Plataforma SaaS con integraciones cloud</strong></p>
+      <p>Producto digital con integraciones SaaS avanzadas, autenticaci&oacute;n segura y despliegue escalable en la nube.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=fff" />
+      </p>
+      <p>
+        <a href="https://aurantis.io"><img src="https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://naranest.app">Naranest</a></h3>
+      <p><strong>Web app moderna con autenticaci&oacute;n</strong></p>
+      <p>Aplicaci&oacute;n web con sistema de autenticaci&oacute;n robusto, gesti&oacute;n de datos en tiempo real y experiencia de usuario optimizada.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+      </p>
+      <p>
+        <a href="https://naranest.app"><img src="https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Mobile
-- **React Native + Expo** para apps iOS/Android en producción
-- Integración con APIs, autenticación segura, notificaciones y mantenimiento de releases
+> Puedo compartir breakdowns t&eacute;cnicos detallados por proyecto: arquitectura, decisiones clave, retos resueltos y m&eacute;tricas de impacto.
 
-### Backend, Data & Infra
-- **Node.js / API design** (REST, GraphQL, webhooks, background jobs)
-- **Prisma ORM + PostgreSQL** (modelado, migraciones, performance)
-- **Supabase ecosystem** (Auth, Database, Storage, Realtime, Edge Functions)
-- **Caching y rendimiento**: estrategias por ruta, revalidación, optimización de queries
+---
 
-### Auth, Security & Compliance
-- **Magic Link**, OAuth, JWT, RBAC, sesiones seguras
-- Hardening básico alineado con OWASP (headers, validación, control de acceso)
+## Qu&eacute; aporto a tu equipo
 
-### Payments, Contracts & Integrations
-- **Stripe** (Checkout, subscriptions, billing flows, webhooks)
-- **DocuSeal** (firma electrónica y workflows de documentos)
-- Integración de APIs de terceros con observabilidad y manejo de errores robusto
+<table>
+  <tr>
+    <td width="50%">
 
-### Blockchain & Web3
-- Integraciones Web3 para productos modernos:
-  - Wallet auth / wallet connect
-  - Lectura/escritura on-chain
-  - Sincronización off-chain para dashboards y experiencia de usuario
-- Tooling habitual: EVM ecosystem, SDKs y clients para interacción con smart contracts
+**Desarrollo end-to-end**
+- Idea &rarr; MVP &rarr; producci&oacute;n &rarr; escala
+- Web + mobile + backend desde un solo perfil
+- Features de alto impacto: auth avanzada, pagos, firmas digitales, dashboards admin
 
-### Architecture, Quality & Delivery
-- **Arquitectura Hexagonal**, separación por capas y boundaries claros
-- **Clean Code, SOLID, DDD táctico** y enfoque maintainable-first
+</td>
+    <td width="50%">
+
+**Calidad y mantenibilidad**
+- Arquitectura hexagonal y clean code en cada proyecto
 - Testing strategy: unit + integration + E2E
-- **CI/CD con GitHub Actions**, deploy en **Vercel**, versionado y workflows colaborativos
+- Refactor de c&oacute;digo legado con criterios de performance
+- Colaboraci&oacute;n fluida con negocio, dise&ntilde;o y equipos t&eacute;cnicos
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## Qué puedo aportar a tu equipo
-
-- Desarrollo de productos **end-to-end**: idea → MVP → producción → escala.
-- Implementación de features de alto impacto:
-  - onboarding y autenticación avanzada
-  - pagos y suscripciones
-  - firma digital de documentos
-  - dashboards operativos y admin panels
-  - apps móviles conectadas al mismo core backend
-- Refactor y mejora de código legado con criterios de performance y mantenibilidad.
-- Colaboración fluida con negocio, diseño y equipos técnicos.
-
----
-
-## Keywords (ATS / Recruiter Search)
-
-**Next.js 14, App Router, React, TypeScript, React Native, Expo, Prisma, PostgreSQL, Supabase, Stripe, DocuSeal, Magic Link, TanStack Query, Webhooks, API Design, GraphQL, Architecture Hexagonal, Clean Code, SOLID, CI/CD, Vercel, Web3, Blockchain Integrations**
-
----
-
-## GitHub Stats
+## GitHub en n&uacute;meros
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymardev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=raymardev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=raymardev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=raymardev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raymardev&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=raymardev&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=raymardev&theme=default&hide_border=true" alt="GitHub Streak" height="180" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raymardev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raymardev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raymardev&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymardev&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  </picture>
 </p>
 
 ---
 
+## Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raymardev/raymardev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raymardev/raymardev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/raymardev/raymardev/output/github-snake.svg" width="100%" />
+</picture>
+
+---
+
 <p align="center">
-  <strong>Disponible para:</strong> Full-time · Freelance · Colaboraciones técnicas de alto impacto
+  <strong>Disponible para:</strong> Full-time &middot; Freelance &middot; Colaboraciones t&eacute;cnicas de alto impacto
 </p>
 
 <p align="center">
-  <em>"Build fast. Build clean. Build for scale."</em>
+  <a href="https://raymartin.es" target="_blank"><img src="https://img.shields.io/badge/Hablemos-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Contacto" /></a>
 </p>
+
+<!-- SEO / ATS Keywords -->
+<!-- Next.js 14, App Router, React, TypeScript, React Native, Expo, Full-Stack Developer, Node.js, Prisma, PostgreSQL, Supabase, Stripe, DocuSeal, Magic Link, TanStack Query, Webhooks, API Design, GraphQL, REST API, Hexagonal Architecture, Clean Code, SOLID, DDD, CI/CD, GitHub Actions, Docker, Vercel, Web3, Blockchain, WalletConnect, EVM, Frontend Developer, Backend Developer, Mobile Developer, Spain, Remote, SaaS, B2B Platform -->
